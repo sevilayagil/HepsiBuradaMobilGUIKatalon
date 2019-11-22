@@ -8,8 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 - [Katalon Studio](https://www.katalon.com/) - [Installation and Setup](https://docs.katalon.com/x/HwAM)
 - [Android Studio](https://developer.android.com/studio/)
-- Application Under Test (AUT)
-  - [Hepsiburada apk]
+- [Hepsiburada apk]
 ### Setting Up
 - [Check out](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) the code from this repository
 - [Open the project](https://docs.katalon.com//display/KD/Manage+Test+Project) from Katalon Studio
