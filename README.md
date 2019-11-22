@@ -20,6 +20,10 @@ These instructions will get you a copy of the project up and running on your loc
 3. Choose the browser for executing the test case
 At the end of this README, you will find additional ways to execute automation test cases. 
 
+### Script
+
+![script](https://github.com/sevilayagil/HepsiBuradaMobilGUIKatalon/blob/master/script.png)
+
 ## See Also
 Update configurations for integration: [Jira](https://docs.katalon.com/x/7oEw), [Katalon Analytics](https://docs.katalon.com/x/KRhO)
 
